@@ -1,9 +1,13 @@
 <h1 align="center">Hi there 👋 Welcome to my GitHub profile, I am Carol Bezerra</h1>
 <h3 align="center">Web Developer Front-end and Back-end Student</h3>
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [trybe-projects-front-end](https://github.com/carolbezerra-dev/trybe-projects-front-end)
+
+- 🔭 I highlight these 2 projects:
+1) _Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/13.React-Router) and [PAGE](https://moviecards-library-crud.vercel.app/)
+2) _Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/12.Forms-React) and [PAGE](https://moviecards-library-stateful.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Redux, ContextAPI, Hooks, RTL and Jest**
 
