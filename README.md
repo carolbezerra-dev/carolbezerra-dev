@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [trybe-projects-front-end](https://github.com/carolbezerra-dev/trybe-projects-front-end)
 
-- 🔭 I highlight these 2 projects:
+- 🔭 I highlight these two projects:
 1) _Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/13.React-Router) and [PAGE](https://moviecards-library-crud.vercel.app/)
 2) _Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/12.Forms-React) and [PAGE](https://moviecards-library-stateful.vercel.app/)
 
