@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 Welcome to my GitHub profile, I am Carol Bezerra</h1>
 <h3 align="center">Web Developer Front-end and Back-end Student</h3>
 
-- 🌱 I’m currently learning/Eu estou atualmente estudando **MongoDB**
+- 🌱 I’m currently learning/Eu estou atualmente estudando **NodeJs**
 
 - 👨‍💻 All of my projects are available at/Todos os meus projetos estão disponíveis no [trybe-projects-front-end](https://github.com/carolbezerra-dev/trybe-projects-front-end)
 
