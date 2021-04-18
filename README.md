@@ -7,8 +7,8 @@
 
 - 🔭 I highlight these three projects/Destaco para esses 3 projetos:
 1) _Trybe Wallet_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/16.Redux) and [PAGE](https://trybewallet-kappa.vercel.app/)
-2) _Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/13.React-Router) and [PAGE](https://moviecards-library-crud.vercel.app/)
-3) _Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/12.Forms-React) and [PAGE](https://moviecards-library-stateful.vercel.app/)
+2) _Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/13.React-Router) and [PAGE](https://moviecards-library-crud.vercel.app/)
+3) _Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/12.Forms-React) and [PAGE](https://moviecards-library-stateful.vercel.app/)
 
 - 💬 Let's talk about/Vamos falar sobre **HTML, CSS, Javascript, React, Redux, ContextAPI, Hooks, RTL and Jest**
 
