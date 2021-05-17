@@ -23,6 +23,4 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carolbezerra-dev/) <a href="mailto:carol.arbe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolbezerra-dev&show_icons=true&locale=en&layout=compact" alt="carolbezerra-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolbezerra-dev&show_icons=true&locale=en" alt="carolbezerra-dev" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolbezerra-dev&&hide=richtextformat;layout=compact&amp;theme=dracula" alt="carolbezerra-dev" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=carolbezerra-dev&s&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dracula" alt="carolbezerra-dev" />
