@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [trybe-projects-front-end](https://github.com/carolbezerra-dev/trybe-projects-front-end)
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Python**
 
 - 🔭 I’m currently working on [nomade-smiles-hackathon](https://github.com/carolbezerra-dev/nomade-smiles-hackathon)
 
