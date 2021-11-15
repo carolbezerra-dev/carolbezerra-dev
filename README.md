@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 🔭 I’m currently working on [nomade-smiles-hackathon](https://github.com/carolbezerra-dev/nomade-smiles-hackathon)
+- 🔭 I’m currently working on [Javascript-Ninja](https://github.com/carolbezerra-dev/Javascript-Ninja)
 
 - 🌟 I highlight these 3 projects:
 1) _Trybe Wallet_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/16.Redux) and [PAGE](https://trybewallet-kappa.vercel.app/)
