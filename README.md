@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [trybe-projects-front-end](https://github.com/carolbezerra-dev/trybe-projects-front-end)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Typescript**
 
 - 🔭 I’m currently working on [Javascript-Ninja](https://github.com/carolbezerra-dev/Javascript-Ninja)
 
