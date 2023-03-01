@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub Profile I'm Carol Bezerra</h1>
-<h3 align="center">Web Developer Front-end and Back-end Student</h3>
+<h3 align="center">iOS Developer</h3>
 
-- 👨‍💻 All of my projects are available at [trybe-projects-front-end](https://github.com/carolbezerra-dev/trybe-projects-front-end)
+- 👨‍💻 All of my projects are available at [personal-swift](https://github.com/carolbezerra-dev/personal-swift)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **ViewCode**
 
-- 🔭 I’m currently working on [Javascript-Ninja](https://github.com/carolbezerra-dev/Javascript-Ninja)
+- 🔭 I’m currently working on reproduce [Lessons-Learned-SwiftUI](https://github.com/carolbezerra-dev/personal-swift/tree/main/Lessons-Learned-SwiftUI) in ViewCode version
 
-- 🌟 I highlight these 3 projects:
-1) _Trybe Wallet_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/16.Redux) and [PAGE](https://trybewallet-kappa.vercel.app/)
-2) _Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/13.React-Router) and [PAGE](https://moviecards-library-crud.vercel.app/)
-3) _Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/12.Forms-React) and [PAGE](https://moviecards-library-stateful.vercel.app/)
+- 🌟 I highlight the project:
+1) _Lessons Learned_ - [CODE](https://github.com/carolbezerra-dev/personal-swift/tree/main/Lessons-Learned-SwiftUI)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Redux, ContextAPI, Hooks, React Testing Library, Jest, MySQL, MongoDB, NodeJs, Express and JWT**
+- 💬 Ask me about **Xcode, Swift, SwiftUI, ViewCode, Storyboard, MVVM, Cocoapods, Swift Package Manager, Unit tests, Agile, CI/CD, TDD**
 
-- ⚡ My goal is **to become Full-Stack Developer**
+- ⚡ My goal is **to work in a relevante project as iOS Developer**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.apple.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="40" height="40"/> </a> <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/carolbezerra-dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
 
 <h3 align="left">📫 How to reach me 👇</h3>
 
