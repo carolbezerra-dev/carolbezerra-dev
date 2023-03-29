@@ -3,14 +3,14 @@
 
 - 👨‍💻 All of my projects are available at [personal-swift](https://github.com/carolbezerra-dev/personal-swift)
 
-- 🌱 I’m currently learning **ViewCode with UIKit**
+- 🌱 I’m currently learning **UIKit (ViewCode)**
 
 - 🔭 I’m currently working on reproduce [Lessons-Learned-SwiftUI](https://github.com/carolbezerra-dev/personal-swift/tree/main/Lessons-Learned-SwiftUI) in ViewCode version
 
 - 🌟 I highlight the project:
 1) _Lessons Learned_ - [CODE](https://github.com/carolbezerra-dev/personal-swift/tree/main/Lessons-Learned-SwiftUI)
 
-- 💬 Ask me about **Xcode, Swift, SwiftUI, ViewCode, Storyboard, MVVM, Cocoapods, Swift Package Manager, Unit tests, Agile, CI/CD, TDD**
+- 💬 Ask me about **Xcode, Swift, SwiftUI, UIKit (ViewCode and Storyboard), MVVM, Cocoapods, Swift Package Manager, Unit tests, Agile, CI/CD, TDD**
 
 - ⚡ My goal is **to work in a relevante project as iOS Developer**
 
