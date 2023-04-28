@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **UIKit (ViewCode)**
 
-- 🔭 I’m currently working on reproduce [Lessons-Learned-SwiftUI](https://github.com/carolbezerra-dev/personal-swift/tree/main/Lessons-Learned-SwiftUI) in ViewCode version
+- 🔭 I’m currently working on reproduce [ToDoList](https://github.com/carolbezerra-dev/personal-swift/tree/main/ToDoList) in SwiftUI and ViewCode versions
 
 - 🌟 I highlight the project:
 1) _Lessons Learned_ - [CODE](https://github.com/carolbezerra-dev/personal-swift/tree/main/Lessons-Learned-SwiftUI)
